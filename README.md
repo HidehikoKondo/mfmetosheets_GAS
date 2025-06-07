@@ -1,2 +1,2 @@
-# Catube_GAS
-CaTubeのGAS側のコードの管理（clasp対応）
+# mfmetosheets_GAS
+mfmetosheetsのGAS側のコードの管理（clasp対応）
